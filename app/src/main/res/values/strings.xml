@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">To do List</string>
+    <string name="todoliz">TodoLiz</string>
+    <string name="your_awesome_app">Create Tasks Now</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="login">Login</string>
+    <string name="email_address">Email Address</string>
+    <string name="full_name">Full Name</string>
+    <string name="age">Age</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register_with_us">Register with us</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="logout">Logout</string>
+    <string name="welcome_to_todo_here">Welcome to todo here</string>
+    <string name="no_more_todos">No More Todos</string>
+    <string name="finish_them_asap">Finish Them ASAP</string>
+</resources>
